@@ -4,6 +4,8 @@ Project information for **MisconceptionBench: Evaluating LLMs on Science Misconc
 
 Ying Zhang, Zhaoji Wang, Chenyu Zhang, Yizhu Gao, Wenchao Ma, and Xiaoming Zhai.
 
+[Read the paper on ACL Anthology](https://aclanthology.org/2026.emnlp-main.712/)
+
 ## About the project
 
 MisconceptionBench studies how language models interpret science misconceptions and predict population-level answer-choice distributions. The study evaluates matching misconceptions to distractors, describing the thinking behind distractors, and predicting answer-choice distributions. Please refer to the paper for the methods and findings.
